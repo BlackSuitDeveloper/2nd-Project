@@ -1,4 +1,11 @@
-# Onegaisimasu
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+# Ticket-Lab: 대규모 동시성 제어 티켓 예매 시스템
+ 목차
+프로젝트 개요
+핵심 기술 스택
+아키텍처
+동시성 제어 전략
+대기열 시스템
+이벤트 기반 아키텍처
+고민사항
+API 문서
+FAQ
